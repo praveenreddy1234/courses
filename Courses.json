@@ -1,0 +1,36 @@
+{
+  "Courses": [
+    {
+      "course": "CSE",
+      "structure": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_7f99abe5bb66465c8a99aeee4d6a3942.pdf",
+      "syllabus": ["https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf"]
+      
+
+    },
+    {
+      "course": "CSE - AIML",
+      "structure": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_1855e9af032d461cafc8609cee069d52.pdf",
+      "syllabus": ["https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf"]
+    },
+    {
+      "course": "CSE - DATA SCIENCE",
+      "structure": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_c2829e50b2f1440b991f950d154d7930.pdf",
+      "syllabus": ["https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf"]
+    },
+    {
+      "course": "CSE - CYBER SECURITY",
+      "structure": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_96d4feed1069440997298ed9ecb67ec0.pdf",
+      "syllabus": ["https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf"]
+    },
+    {
+      "course": "CSE - IOT",
+      "structure": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_280657e5b8de4fc2aac08ed6b384ca2f.pdf",
+      "syllabus": ["https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf"]
+    },
+    {
+      "course": "INFORMATION TECHNOLOGY",
+      "structure": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_82c9e6c03d1b4f1a87539689c820958e.pdf",
+      "syllabus": ["https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf"]
+    }
+  ]
+}
